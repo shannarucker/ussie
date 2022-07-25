@@ -11,7 +11,7 @@ This is a demo package for the "Building Tidy Tools" workshop at at rstudio::con
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/shannarucker/ussie}
+  \item \url{https://github.com/shannarucker/ussiecheck}
   \item Report bugs at \url{https://github.com/shannarucker/ussie/issues}
 }
 
