@@ -23,5 +23,6 @@ Imports:
     dplyr,
     engsoccerdata,
     rlang,
-    tibble
+    tibble,
+    withr
 VignetteBuilder: knitr
